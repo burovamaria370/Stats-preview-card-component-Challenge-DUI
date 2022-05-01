@@ -1,0 +1,140 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.insights {
+  color: hsl(277, 54%, 40%);
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+}
+
+.main-container {
+  width: 1440px;
+  height: 800px;
+  background-color: hsl(233, 47%, 7%);
+  margin: auto;
+}
+
+.center {
+  width: 1106px;
+  height: 446px;
+  background-color: hsl(244, 38%, 16%);
+  margin: 167px auto auto 177px;
+  position: absolute;
+  border-radius: 8px;
+}
+
+.tint-for-image {
+  background-color: hsl(277, 54%, 40%);
+  margin: auto auto auto 566px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  width: 540px;
+  height: 446px;
+}
+
+.img {
+  left: 0px;
+  position: absolute;
+  margin: auto auto auto 566px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-blend-mode: overlay;
+  mix-blend-mode: overlay;
+}
+
+.Get {
+  text-align: left;
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+  font-size: 36px;
+  color: white;
+  position: absolute;
+  top: 0px;
+  margin-left: 80px;
+  margin-top: 78px;
+  height: 100px;
+  width: 400px;
+}
+
+.Discover {
+  text-align: left;
+  font-weight: 300;
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.6);
+  position: absolute;
+  top: 0px;
+  margin-left: 80px;
+  margin-top: 184px;
+  line-height: 1.8;
+  letter-spacing: 0px;
+}
+
+.ten {
+  font-family: 'Inter', sans-serif;
+  color: white;
+  font-weight: 700;
+  position: absolute;
+  top: 0px;
+  margin-left: 80px;
+  margin-top: 330px;
+  font-size: 24px;
+}
+
+.companies {
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 1.1px;
+}
+
+.three {
+  font-family: 'Inter', sans-serif;
+  color: white;
+  font-weight: 700;
+  position: absolute;
+  top: 0px;
+  margin-left: 210px;
+  margin-top: 330px;
+  font-size: 24px;
+}
+
+.templates {
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 1.1px;
+}
+
+.twel {
+  font-family: 'Inter', sans-serif;
+  color: white;
+  font-weight: 700;
+  position: absolute;
+  top: 0px;
+  margin-left: 335px;
+  margin-top: 330px;
+  font-size: 24px;
+}
+
+.queries {
+  font-family: 'Lexend Deca', sans-serif;
+  color: hsla(0, 0%, 100%, 0.6);
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 1.1px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
